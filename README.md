@@ -1,4 +1,7 @@
-### Hello Everyone! 👋 :) 
+### Hello Everyone, I'm Haylee! 👋 :) 
+
+I'm currently a junior in college studying Mathematics and looking to get my MBA. I'm very interested in coding and have expierence in Python,HTML, and CSS. Get to know me!
+
 
 <!--
 **hayleepoltorak/hayleepoltorak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
