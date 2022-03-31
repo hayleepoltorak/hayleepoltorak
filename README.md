@@ -1,6 +1,7 @@
 ### Hello Everyone, I'm Haylee! 👋 :) 
 
 I am a senior pursuing a Bachelor of Science in Mathematical Sciences and a Master of Business Administration
+
 My interests include:
 - Machine Learning
 - AI
