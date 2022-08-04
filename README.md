@@ -1,6 +1,4 @@
 ### Hello Everyone, I'm Haylee! 👋 :) 
 
+I recieved my undergraduate degree from Binghamton University in Mathematical Sciences and I am in the process of earning my MBA with a concentration in Management Information Systems. 
 
-Here's some ways you can reach me:
-* LinkedIn: https://www.linkedin.com/in/haylee-poltorak-4a829019b/
-* Twitter: https://twitter.com/hayleepoltorak1
